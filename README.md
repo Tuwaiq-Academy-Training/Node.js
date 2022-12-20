@@ -80,4 +80,22 @@
 | npm list   |يعدد إصدارات وأسماء جميع الحزم في الدليل الحالي الذي تمت تهيئته| 
 | npm i   |يستخدم هذا الأمر ملف package.json كمرجع وسيقوم بتنزيل جميع الحزم المدرجة فيه| 
 | npm update  |سيقوم هذا الأمر بتحديث جميع الحزم المثبتة داخل ملف package.json| 
-| npm run |استخدم هذا الأمر لتنفيذ الحزم المتاحة للتشغيل| 
+| npm run |استخدم هذا الأمر لتنفيذ الحزم المتاحة للتشغيل|
+
+
+#### اضافات VScode 
+
+- TypeScript
+- ESLint
+- Prettier 
+- Error Lens
+
+
+## الاوامر 
+
+         npm i -g typescript 
+         npm i -g nodemon
+         npm i -g ts-node
+         tsc --init
+         tsc -- watch ( file name).ts
+         
